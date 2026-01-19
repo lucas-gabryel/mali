@@ -46,7 +46,7 @@ export default function Singnup() {
   };
 
   return (
-    <div className="bg-slate-600 w-svw h-svh flex justify-center items-center">
+    <div className="bg-slate-600 w-full flex-1 flex justify-center items-center">
       <div className="bg-slate-50 rounded-lg p-4 w-96">
         <FieldSet>
           <FieldLegend>Cadastre-se</FieldLegend>
